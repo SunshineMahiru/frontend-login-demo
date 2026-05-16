@@ -2,9 +2,6 @@
 
 一个基于 **Vue 3 + Vite + Tailwind CSS** 构建的企业级登录页面演示项目。
 
-## 预览
-
-![Login Demo](./src/assets/hero.png)
 
 > 一个简洁、响应式的登录页面，包含表单校验和优雅的 UI 设计。
 
